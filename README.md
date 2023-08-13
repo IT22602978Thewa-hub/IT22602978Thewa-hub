@@ -1,7 +1,6 @@
 <h1 align="center">Here,👽 Thewan</h1>
 <h3 align="center">A passionate fullstack developer from Srilanka</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it22602978thewa-hub" alt="it22602978thewa-hub" /></a> </p>
 
 - 🌱 I’m currently learning **Java Programming**
 
@@ -29,5 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=it22602978thewa-hub&show_icons=true&locale=en" alt="it22602978thewa-hub" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=it22602978thewa-hub&" alt="it22602978thewa-hub" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it22602978thewa-hub" alt="it22602978thewa-hub" /></a> </p>
 
 
