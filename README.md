@@ -3,13 +3,13 @@
 <img align="right" alt="Coding" width="450" src="tumblr_obe0nkMJIf1vsk1a3o1_640.webp">
 
 
-⦾ I’m currently learning **Java Programming**
+➤ I’m currently learning **Java Programming**
 
-⦾ I’m undergraduate in **Software Engineering**
+➤ I’m undergraduate in **Software Engineering**
 
-⦾ Ask me about **HTML JAVA Adobe Photoshop cc Adobe Illustrator cc**
+➤ Ask me about **HTML JAVA Adobe Photoshop cc Adobe Illustrator cc**
 
-⦾ How to reach me **thewan2001@gmail.com**
+➤ How to reach me **thewan2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
