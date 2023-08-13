@@ -1,5 +1,6 @@
 <h1 align="center">Here,👽 Thewan</h1>
 <h3 align="center">A passionate fullstack developer from Srilanka</h3>
+<img align="right" alt="Coding" width="450" src="https://64.media.tumblr.com/80f80538fe01662eabcdf04c43a7b084/tumblr_obe0nkMJIf1vsk1a3o1_640.gifv">
 
 
 - 🌱 I’m currently learning **Java Programming**
