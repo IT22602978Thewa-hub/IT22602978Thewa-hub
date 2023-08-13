@@ -6,7 +6,7 @@
 
 - 🤝 I’m undergraduate in **Software Engineering**
 
-- 💬 Ask me about **HTML,JAVA,Adobe Photoshop cc,Adobe Illustrator cc**
+- 💬 Ask me about **HTML JAVA Adobe Photoshop cc Adobe Illustrator cc**
 
 - 📫 How to reach me **thewan2001@gmail.com**
 
