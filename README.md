@@ -32,4 +32,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Thewa-AlienHub&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Thewa-AlienHub" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/??username=Thewa-AlienHub&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="Thewa-AlienHub" / ></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Thewa-AlienHub&show_icons=true&hide=&count_private=true&title_color=766300&text_color=ffffff&icon_color=0891b2&bg_color=000011&hide_border=true&show_icons=true&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="Thewa-AlienHub" /></a> </p>
 
