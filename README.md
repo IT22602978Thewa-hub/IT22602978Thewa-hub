@@ -1,6 +1,5 @@
 <h1 align="center">Here,👽 Thewan</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&pause=2000&color=02FFD2&background=7E00008A&center=true&vCenter=true&width=420&height=25&lines=%7C%7C++A+passionate+fullstack+developer+from+Srilanka++%7C%7C+" alt="Typing SVG" /></a>
-<h3 align="center">A passionate fullstack developer from Srilanka</h3>
 <img align="right" alt="Coding" width="450" src="tumblr_obe0nkMJIf1vsk1a3o1_640.webp">
 
 
